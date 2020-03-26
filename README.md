@@ -8,4 +8,5 @@ To test the model,
 1. Clone the repo.
 2. Open the notebook.
 3. Run the import statements in the start of the notebook.
-4. Scroll to the bottom of the page and run the last section.
+4. Run the cell with wing loss definition.
+5. Scroll to the bottom of the page and run the last section.
